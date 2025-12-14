@@ -75,7 +75,7 @@ function RegistrationForm() {
         </button>
       </form>
     </div>
-  );
+  );git branch 
 
 }
 
